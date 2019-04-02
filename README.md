@@ -1,2 +1,1 @@
-kuriwaki.github.io
-==================
+This is my site
